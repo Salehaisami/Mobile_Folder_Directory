@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'folder.dart';
+import '../models/folder.dart';
 
 class ExpandingDirTile extends StatefulWidget {
   const ExpandingDirTile({Key? key, required this.folder}) : super(key: key);

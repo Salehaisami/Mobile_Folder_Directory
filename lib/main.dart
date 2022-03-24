@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:mobile/ExpandingDirTile.dart';
+import 'package:mobile/widgets/ExpandingDirTile.dart';
 
-import 'folder.dart';
+import 'models/folder.dart';
 
 void main() {
   runApp(const MyApp());
